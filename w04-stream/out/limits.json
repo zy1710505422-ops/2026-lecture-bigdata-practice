@@ -1,0 +1,51 @@
+{
+  "runs": [
+    {
+      "n": 100000,
+      "true_distinct": 36702,
+      "exact_s": 0.2916959999129176,
+      "exact_peak_bytes": 3925492,
+      "fm_estimate": 40731.38863560672,
+      "fm_s": 184.68553330004215,
+      "fm_peak_bytes": 4252,
+      "fm_ratio": 1.1097866229526108
+    },
+    {
+      "n": 400000,
+      "true_distinct": 146970,
+      "exact_s": 1.268032600171864,
+      "exact_peak_bytes": 11591174,
+      "fm_estimate": 186060.00570754337,
+      "fm_s": 1636.790997999953,
+      "fm_peak_bytes": 4098,
+      "fm_ratio": 1.2659726863138285
+    },
+    {
+      "n": 1600000,
+      "true_distinct": 587625,
+      "exact_s": 5.6854342999868095,
+      "exact_peak_bytes": 46647456,
+      "fm_estimate": 552130.6178571186,
+      "fm_s": 15504.4807821,
+      "fm_peak_bytes": 4042,
+      "fm_ratio": 0.9395968821223035
+    },
+    {
+      "n": 25000,
+      "true_distinct": 9189,
+      "exact_s": 0.07644480001181364,
+      "exact_peak_bytes": 976984,
+      "fm_estimate": 8562.719672996896,
+      "fm_s": 51.99962639994919,
+      "fm_peak_bytes": 5538,
+      "fm_ratio": 0.9318445612141578
+    }
+  ],
+  "machine": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+    "python": "3.14.7",    "cpu": "Intel Core i9-13900H",
+    "ram_gb": 16,
+    "other_apps": "Google Chrome, VS Code, Task Manager"
+  }
+}
