@@ -1,0 +1,79 @@
+{
+  "runs": [
+    {
+      "support": 400,
+      "frequent_pairs": 249,
+      "peak_counters": 10585,
+      "seconds": 0.31936980000000403,
+      "peak_bytes": 1145988
+    },
+    {
+      "support": 200,
+      "frequent_pairs": 776,
+      "peak_counters": 58626,
+      "seconds": 0.5142813000002207,
+      "peak_bytes": 6714128
+    },
+    {
+      "support": 100,
+      "frequent_pairs": 2244,
+      "peak_counters": 273701,
+      "seconds": 0.9799929999999222,
+      "peak_bytes": 28562368
+    },
+    {
+      "support": 50,
+      "frequent_pairs": 6397,
+      "peak_counters": 820259,
+      "seconds": 1.7546179999999367,
+      "peak_bytes": 107747360
+    },
+    {
+      "support": 25,
+      "frequent_pairs": 17045,
+      "peak_counters": 893456,
+      "seconds": 1.8378901000000951,
+      "peak_bytes": 107744896
+    },
+    {
+      "support": 12,
+      "frequent_pairs": 43116,
+      "peak_counters": 893456,
+      "seconds": 1.9980353999999352,
+      "peak_bytes": 109981940
+    },
+    {
+      "support": 6,
+      "frequent_pairs": 101938,
+      "peak_counters": 893456,
+      "seconds": 2.1831019000001106,
+      "peak_bytes": 126485392
+    },
+    {
+      "support": 3,
+      "frequent_pairs": 250054,
+      "peak_counters": 893456,
+      "seconds": 2.356900399999631,
+      "peak_bytes": 163855596
+    },
+    {
+      "support": 2,
+      "frequent_pairs": 424620,
+      "peak_counters": 893456,
+      "seconds": 2.228830900000048,
+      "peak_bytes": 212047604
+    },
+    {
+      "support": 1,
+      "frequent_pairs": 893456,
+      "peak_counters": 893456,
+      "seconds": 2.6289621999999326,
+      "peak_bytes": 334153448
+    }
+  ],
+  "machine": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "python": "3.14.3"
+  }
+}
